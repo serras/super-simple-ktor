@@ -1,0 +1,21 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.serranofp.ktor.simple////PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/index.html
+$dokka.location:com.serranofp.ktor.simple//receive/io.ktor.server.application.ApplicationCall#/PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/receive.html
+$dokka.location:com.serranofp.ktor.simple//receiveText/io.ktor.server.application.ApplicationCall#/PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/receive-text.html
+$dokka.location:com.serranofp.ktor.simple//respond/io.ktor.server.application.ApplicationCall#TypeParam(bounds=[kotlin.Any])#io.ktor.http.HttpStatusCode?/PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/respond.html
+$dokka.location:com.serranofp.ktor.simple//respondHtml/io.ktor.server.application.ApplicationCall#io.ktor.http.HttpStatusCode?#kotlin.Function1[kotlinx.html.HTML,kotlin.Unit]/PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/respond-html.html
+$dokka.location:com.serranofp.ktor.simple//respondText/io.ktor.server.application.ApplicationCall#kotlin.String#io.ktor.http.ContentType?#io.ktor.http.HttpStatusCode?/PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/respond-text.html
+$dokka.location:com.serranofp.ktor.simple//superSimpleKtor/#kotlin.Int#kotlin.String#kotlin.Function1[io.ktor.server.application.Application,kotlin.Unit]#kotlin.Function1[com.serranofp.ktor.simple.SuperSimpleKtor,kotlin.Unit]/PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/super-simple-ktor.html
+$dokka.location:com.serranofp.ktor.simple//superSimpleKtorApp/arrow.fx.coroutines.continuations.ResourceScope#io.ktor.server.application.Application#kotlin.Function1[io.ktor.server.application.Application,kotlin.Unit]#kotlin.Function1[com.serranofp.ktor.simple.SuperSimpleKtor,kotlin.Unit]/PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/super-simple-ktor-app.html
+$dokka.location:com.serranofp.ktor.simple/SuperSimpleKtor///PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/-super-simple-ktor/index.html
+$dokka.location:com.serranofp.ktor.simple/SuperSimpleKtor/delete/#kotlin.String#kotlin.coroutines.SuspendFunction1[io.ktor.server.application.ApplicationCall,kotlin.Unit]/PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/-super-simple-ktor/delete.html
+$dokka.location:com.serranofp.ktor.simple/SuperSimpleKtor/get/#kotlin.String#kotlin.coroutines.SuspendFunction1[io.ktor.server.application.ApplicationCall,kotlin.Unit]/PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/-super-simple-ktor/get.html
+$dokka.location:com.serranofp.ktor.simple/SuperSimpleKtor/patch/#kotlin.String#kotlin.coroutines.SuspendFunction1[io.ktor.server.application.ApplicationCall,kotlin.Unit]/PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/-super-simple-ktor/patch.html
+$dokka.location:com.serranofp.ktor.simple/SuperSimpleKtor/post/#kotlin.String#kotlin.coroutines.SuspendFunction1[io.ktor.server.application.ApplicationCall,kotlin.Unit]/PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/-super-simple-ktor/post.html
+$dokka.location:com.serranofp.ktor.simple/SuperSimpleKtor/put/#kotlin.String#kotlin.coroutines.SuspendFunction1[io.ktor.server.application.ApplicationCall,kotlin.Unit]/PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/-super-simple-ktor/put.html
+$dokka.location:com.serranofp.ktor.simple/SuperSimpleKtor/resource/#/PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/-super-simple-ktor/resource.html
+$dokka.location:com.serranofp.ktor.simple/SuperSimpleKtor/route/#io.ktor.http.HttpMethod#kotlin.String#kotlin.coroutines.SuspendFunction1[io.ktor.server.application.ApplicationCall,kotlin.Unit]/PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/-super-simple-ktor/route.html
+$dokka.location:com.serranofp.ktor.simple/SuperSimpleKtor/routing/#/PointingToDeclaration/-super-simple-ktor/com.serranofp.ktor.simple/-super-simple-ktor/routing.html
+com.serranofp.ktor.simple
+
